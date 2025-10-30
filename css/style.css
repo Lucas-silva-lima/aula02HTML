@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 210, 143);
+}
+
+h1{
+    color: rgb(0, 49, 156);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2.titulo{
+    font-size: 30px;
+    color: rgb(46, 103, 224);
+    text-align: center;
+}
+p.quoka{
+    font-size: 16px;
+    display: flex;
+    text-align: right;
+}
+img{
+    width: 300px;
+    height: 250px;
+    border: solid;
+}
+hr{
+    font-size: 20px;
+    color: black;
+}
+.boxQuokka{
+    border: 2px solid black;
+    border-radius:  15px;
+    background-color: greenyellow; 
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Centraliza no eixo horizontal */
+    align-items: center; /* Centraliza no eixo vertical */
+    
+}
+.boxbeligol{
+    border: 2px solid black;
+    border-radius:  15px;
+    background-color: rgb(207, 166, 53); 
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Centraliza no eixo horizontal */
+    align-items: center; /* Centraliza no eixo vertical */
+    
+}
+p.tamandua{
+    display: flex;
+    text-align: right;
+}
